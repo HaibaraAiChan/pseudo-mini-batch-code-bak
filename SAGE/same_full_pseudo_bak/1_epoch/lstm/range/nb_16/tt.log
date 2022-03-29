@@ -1,0 +1,105 @@
+
+
+m.shape torch.Size([6380, 1, 128])
+
+
+torch.Size([1, 6380, 128])
+m.shape torch.Size([8319, 2, 128])
+
+
+torch.Size([1, 8319, 128])
+m.shape torch.Size([8558, 3, 128])
+
+
+torch.Size([1, 8558, 128])
+m.shape torch.Size([8123, 4, 128])
+
+
+torch.Size([1, 8123, 128])
+m.shape torch.Size([7610, 5, 128])
+
+
+torch.Size([1, 7610, 128])
+m.shape torch.Size([6765, 6, 128])
+
+
+torch.Size([1, 6765, 128])
+m.shape torch.Size([6179, 7, 128])
+
+
+torch.Size([1, 6179, 128])
+m.shape torch.Size([5613, 8, 128])
+
+
+torch.Size([1, 5613, 128])
+m.shape torch.Size([5073, 9, 128])
+
+
+torch.Size([1, 5073, 128])
+m.shape torch.Size([4618, 10, 128])
+
+
+torch.Size([1, 4618, 128])
+m.shape torch.Size([4143, 11, 128])
+
+
+torch.Size([1, 4143, 128])
+m.shape torch.Size([3779, 12, 128])
+
+
+torch.Size([1, 3779, 128])
+m.shape torch.Size([3508, 13, 128])
+
+
+torch.Size([1, 3508, 128])
+m.shape torch.Size([3126, 14, 128])
+
+torch.Size([1, 3126, 128])
+m.shape torch.Size([2844, 15, 128])
+
+
+torch.Size([1, 2844, 128])
+m.shape torch.Size([2577, 16, 128])
+
+
+torch.Size([1, 2577, 128])
+m.shape torch.Size([2473, 17, 128])
+
+
+torch.Size([1, 2473, 128])
+m.shape torch.Size([2292, 18, 128])
+
+
+torch.Size([1, 2292, 128])
+m.shape torch.Size([2018, 19, 128])
+
+
+torch.Size([1, 2018, 128])
+m.shape torch.Size([1929, 20, 128])
+
+
+torch.Size([1, 1929, 128])
+m.shape torch.Size([1819, 21, 128])
+
+
+torch.Size([1, 1819, 128])
+m.shape torch.Size([1530, 22, 128])
+
+
+torch.Size([1, 1530, 128])
+m.shape torch.Size([1420, 23, 128])
+
+
+torch.Size([1, 1420, 128])
+m.shape torch.Size([1391, 24, 128])
+
+
+
+torch.Size([1, 1391, 128])
+m.shape torch.Size([20068, 25, 128])
+
+
+torch.Size([1, 20068, 128])
+
+
+

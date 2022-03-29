@@ -1,0 +1,24 @@
+full batch blocks generated in full_batch_train/SAGE/full_batch_arxiv_sage_GPU_mem.py 
+save in DATA/re/fan-out****.pickle
+it is controlled by 'args.gen_full_batch' == True
+
+step 1: set args.gen_full_batch  True
+            args.load_full_batch False
+            gen fan-out xxx full batch data
+
+step 2: set args.gen_full_batch  False
+            args.load_full_batch True
+            get full batch result memory consumption
+
+step 3: set args.load_full_batch True in pseudo_mini_batch_train
+            get pseudo mini batch result memory consumption
+
+
+
+
+
+
+
+in pseudo_mini_batch_train
+reuse the full batch data generated from above to get memory consumption breakdown
+'args.load_full_batch' == True
